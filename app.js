@@ -19,9 +19,20 @@ import { registrarDestino, mostrarItinerario } from "./viajes_ES6";
 
 // Declarar las funciones con base en ES6
 const iniciarApp = () => {
+    // registrarDestino("Paris", "2024-06-15", "Avión");
+    // registrarDestino("Londres", "2024-07-01", "Tren");
+    // registrarDestino("New York", "2024-12-20", "Avión"); //Destino extra
+
+    // Nuevos Registros
+    // Registro normal
     registrarDestino("Paris", "2024-06-15", "Avión");
-    registrarDestino("Londres", "2024-07-01", "Tren");
-    registrarDestino("New York", "2024-12-20", "Avión"); //Destino extra
+
+    //Registro con transporte nuevo (Bus)
+    registrarDestino("Londres", "2024-07-01", "Bus", 2);
+
+    //Registro con descuento (4 personas)
+    registrarDestino("Tokio", "2024-10-10", "Avión", 4);
+
 
     mostrarItinerario();
 };
