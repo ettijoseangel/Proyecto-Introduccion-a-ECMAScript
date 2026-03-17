@@ -10,7 +10,7 @@ El objetivo de este proyecto es permitir que los estudiantes practiquen concepto
 ---
 
 ## Problema: Planificador de viajes
-Imagina que eres parte del equipo encargado de actualizar una aplicación antigua (la cual se muestra en el documento adjunto) para planificar viajes. Los usuarios deben poder registrar destinos de viaje, la fecha en que desean viajar, y calcular el costo total estimado del viaje en función de las opciones de alojamiento y transporte que elijan.
+Imagina que eres parte del equipo encargado de actualizar una aplicación antigua (la cual se muestra en viajes.js) para planificar viajes. Los usuarios deben poder registrar destinos de viaje, la fecha en que desean viajar, y calcular el costo total estimado del viaje en función de las opciones de alojamiento y transporte que elijan.
 
 ---
 
