@@ -17,7 +17,7 @@ import { registrarDestino, mostrarItinerario } from "./viajes_ES6";
 // iniciarApp();
 
 
-// Declarar las funciones con base en ES6
+// **** iniciarApp - Versión ES6 ***** */
 const iniciarApp = () => {
     // registrarDestino("Paris", "2024-06-15", "Avión");
     // registrarDestino("Londres", "2024-07-01", "Tren");
